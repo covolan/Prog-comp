@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "ostream": "cpp",
+        "python": "/usr/bin/python3",
+        "cmath": "cpp",
+        "initializer_list": "cpp",
+        "valarray": "cpp",
+        "iostream": "cpp"
+    }
+}
